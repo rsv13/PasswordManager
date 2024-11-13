@@ -1,0 +1,9 @@
+# Ignore .csv files
+*.csv
+
+# Ignore .class files
+*.class
+
+# Ignore bin directory (where compiled .class files are stored)
+bin/
+
